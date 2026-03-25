@@ -71,24 +71,10 @@ func main() {
 ## 📊 GitHub Stats
 
 > Three different ways to see what I've been up to 👇
-
-**Overall activity**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisolski&theme=cobalt&show_icons=true&count_private=true&border_color=474444&text_color=CE6B87&icon_color=559e90" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisolski&layout=compact&theme=cobalt&count_private=true&border_color=474444&text_color=CE6B87&icon_color=559e90" />
-</div>
-
 **Contribution streak**
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=guisolski&theme=cobalt&border=474444&ring=CE6B87&fire=559e90&currStreakLabel=CE6B87" />
-</div>
-
-**Trophies** *(community mirror — more stable)*
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=guisolski&theme=nord&column=7&margin-w=10&no-bg=true" />
 </div>
 
 **Profile summary cards**
@@ -99,12 +85,4 @@ func main() {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guisolski&theme=cobalt" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guisolski&theme=cobalt" />
-</div>
-
----
-
-<div align="center">
-
-*Thanks to [@anuraghazra](https://github.com/anuraghazra), [@DenverCoder1](https://github.com/DenverCoder1), [@ryo-ma](https://github.com/ryo-ma) and [@vn7n24fzkq](https://github.com/vn7n24fzkq) for the open-source readme widgets* 🙌
-
 </div>
